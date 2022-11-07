@@ -5,7 +5,7 @@
 - import pandas as pd
 - import numpy as np
 - import seaborn as sns
-- import matplotlib.pyplot as plt
+- import matplotlib
 
 ### Instructions
 The `Ayoola Damilare - TMDB_Movies.ipnb` file contains the questions proposed and the solutions. 
