@@ -11,4 +11,4 @@
 The `Ayoola Damilare - TMDB_Movies.ipnb` file contains the questions proposed and the solutions. 
 The file is well structured with every steps taken in solving each problem.
 
-##### In case you have you need more clarity, you can leave me a comment or reach out to me on linkedin [Damilare Ayoola](https://www.linkedin.com/in/ayoola-damilare-25329214b/)]
+##### In case you have you need more clarity, you can leave me a comment or reach out to me on linkedin [Damilare Ayoola](https://www.linkedin.com/in/damilareayoola/)]
